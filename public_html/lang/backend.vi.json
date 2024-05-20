@@ -1027,7 +1027,7 @@
     "httpheader.tag.non-standard": "non-standard",
     "httpheader.tag.security": "bảo mật",
     "httpheader.tag.obsolete": "obsolete",
-    "httpheader.tag.unwanted": "unwanted",
+    "httpheader.tag.unwanted": "không mong muốn",
     "httpheader.tag.unknown": "không rõ ràng",
     "httpheader.tag.badvalue": "giá trị không mong muốn",
     "httpheader.context.securityheaders-links": "Additional links to scan the header of the domain.",
